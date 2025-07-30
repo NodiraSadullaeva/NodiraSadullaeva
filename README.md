@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nodira Sadullaeva</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nodirasadullaeva" alt="nodirasadullaeva" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NodiraSadullaeva" alt="NodiraSadullaeva" /></a> </p>
 
 - 🌱 I’m currently learning **Introduction to Data Science with Python from HarvardX**
 

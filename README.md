@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NodiraSadullaeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-- 🌱 I’m currently learning **Introduction to Data Science with Python from HarvardX**
+- 🌱 I’m currently working as a **Data Science Intern @ IT Park Headquarters** in Tashkent
 
 - 👨‍💻 All of my projects are available at [https://github.com/NodiraSadullaeva](https://github.com/NodiraSadullaeva)
 

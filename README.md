@@ -8,9 +8,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NodiraSadullaeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-- 🌱 I’m currently working as a **Data Science Intern @ IT Park Headquarters** in Tashkent
+- 🌱 I’m currently working on my **Thesis** which is also an **Independent Industrial Project on Product Authentication using Data Science, Machine Learning and Statistical Modelling** in York with (confidential) partner industry
 
-- 👨‍💻 All of my projects are available at [https://github.com/NodiraSadullaeva](https://github.com/NodiraSadullaeva)
+- 👨‍💻 My recent work experience: **Data Science Intern @ IT Park Headquarters** in Tashkent
+
+- 👾 All of my projects are available at [https://github.com/NodiraSadullaeva](https://github.com/NodiraSadullaeva)
 
 - 📫 How to reach me **ns1768@york.ac.uk**
 

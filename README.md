@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nodira Sadullaeva</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Data Scientist with a Mathematics Olympiad background</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NodiraSadullaeva" alt="NodiraSadullaeva" /></a> </p>
 
@@ -8,13 +8,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NodiraSadullaeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-- 🌱 I’m currently working on my **Thesis** which is also an **Independent Industrial Project on Product Authentication using Data Science, Machine Learning and Statistical Modelling** in York with (confidential) partner industry
+- 🌱 Starting an **MSc in Statistics (Data Science & Machine Learning)** at **Imperial College London**
 
-- 👨‍💻 My recent work experience: **Data Science Intern @ IT Park Headquarters** in Tashkent
+- 👨‍💻 My recent ongoing work experience: **Data Scientist** on **Aral Sea ecological restoration grant** (remote)
+
+- 📑 Completed my **BSc Thesis: an Industrial Project on Product Authentication using Data Science, Machine Learning and Statistical Modelling**, in partnership with a confidential technology SME - currently in preparation for a scientific publication
+
+- Currently **open to Data Science & Machine Learning** opportunities in **London**.
 
 - 👾 All of my projects are available at [https://github.com/NodiraSadullaeva](https://github.com/NodiraSadullaeva)
 
-- 📫 How to reach me **ns1768@york.ac.uk**
+- 📫 How to reach me **nodirasadullaeva27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

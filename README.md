@@ -14,7 +14,7 @@
 
 - 📑 Completed my **BSc Thesis: an Industrial Project on Product Authentication using Data Science, Machine Learning and Statistical Modelling**, in partnership with a confidential technology SME - currently in preparation for a scientific publication
 
-- Currently **open to Data Science & Machine Learning** opportunities in **London**.
+- 📌 Currently **open to Data Science & Machine Learning** opportunities in **London**.
 
 - 👾 All of my projects are available at [https://github.com/NodiraSadullaeva](https://github.com/NodiraSadullaeva)
 

@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NodiraSadullaeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-- 🌱 **MSc in Statistics (Data Science & Machine Learning)** student at **Imperial College London**
+- 🌱 **MSc in Statistics (Data Science & Machine Learning)** student at **[Imperial College London](https://www.imperial.ac.uk/)**
 
 - 👨‍💻 My recent ongoing work experience: **Data Scientist** on **Aral Sea ecological restoration grant** (remote)
 

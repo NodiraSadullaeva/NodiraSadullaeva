@@ -16,7 +16,7 @@
 
 - 📌 Currently **open to Data Science & Machine Learning** opportunities in **London**.
 
-- 👾 All of my prjects are available at [https://github.com/NodiraSadullaeva](https://github.com/NodiraSadullaeva)
+- 👾 All of my projects are available at [https://github.com/NodiraSadullaeva](https://github.com/NodiraSadullaeva)
 
 - 📫 How to reach me **nodirasadullaeva27@gmail.com**
 

@@ -32,3 +32,5 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NodiraSadullaeva&show_icons=true&locale=en&layout=compact" alt="NodiraSadullaeva" /></p> -->
 
 
+------
+last update : 2026-09-30
